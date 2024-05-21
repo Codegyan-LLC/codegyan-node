@@ -2,14 +2,11 @@
   "name": "codegyan",
   "version": "0.1.0",
   "description": "The official TypeScript library for the Codegyan API",
-  "author": "Codegyan <support@codegyan.in>",
+  "author": "Codegyan <admin@codegyan.in>",
   "types": "dist/src/index.d.ts",
   "main": "dist/src/index.js",
   "type": "commonjs",
-  "repository": "github:codegyan-llc/codegyan-node",
-  "license": "Apache-2.0",
   "packageManager": "yarn@1.22.22",
-  
   "files": [
     "/dist",
     "LICENSE.md",
@@ -27,7 +24,6 @@
     "client",
     "compiler api"
   ],
-  "author": "Codegyan <admin@codegyan.in>",
   "license": "MIT",
   "private": false,
   "scripts": {
