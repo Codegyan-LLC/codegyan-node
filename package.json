@@ -11,8 +11,24 @@
   "packageManager": "yarn@1.22.22",
   
   "files": [
-    "*"
+    "/dist",
+    "LICENSE.md",
+    "README.md",
+    "package.json"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codegyan-LLC/codegyan-node.git"
+  },
+  "keywords": [
+    "codegyan",
+    "codegyan node",
+    "api",
+    "client",
+    "compiler api"
+  ],
+  "author": "Codegyan <admin@codegyan.in>",
+  "license": "MIT",
   "private": false,
   "scripts": {
     "build": "tsc --build",
