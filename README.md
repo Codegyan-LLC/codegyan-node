@@ -6,9 +6,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 
-[![npm version](https://badge.fury.io/js/codegyan.svg)](https://badge.fury.io/js/codegyan)
-[![Bundlephobia](https://img.shields.io/bundlephobia/minzip/codegyan)](https://bundlephobia.com/result?p=codegyan)
-
 This library provides convenient access to the Codegyan REST API from TypeScript or JavaScript.
 
 To learn how to use the OpenAI API, check out our and [Documentation](https://developer.codegyan.in/docs).
