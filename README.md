@@ -3,8 +3,11 @@
 [![NPM version](https://img.shields.io/npm/v/codegyan)](https://npmjs.org/package/codegyan)
 ![npm downloads](https://img.shields.io/npm/dt/codegyan)
 ![npm collaborators](https://img.shields.io/npm/collaborators/codegyan)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/codegyan)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+
+
+[![npm version](https://badge.fury.io/js/codegyan.svg)](https://badge.fury.io/js/codegyan)
+[![Bundlephobia](https://img.shields.io/bundlephobia/minzip/codegyan)](https://bundlephobia.com/result?p=codegyan)
 
 This library provides convenient access to the Codegyan REST API from TypeScript or JavaScript.
 
