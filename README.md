@@ -1,6 +1,10 @@
 # Codegyan Node API Library
 
 [![NPM version](https://img.shields.io/npm/v/codegyan)](https://npmjs.org/package/codegyan)
+![npm downloads](https://img.shields.io/npm/dt/codegyan)
+![npm collaborators](https://img.shields.io/npm/collaborators/codegyan)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/codegyan)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 This library provides convenient access to the Codegyan REST API from TypeScript or JavaScript.
 
@@ -77,4 +81,4 @@ We are keen for your feedback; please open an [issue](https://www.github.com/cod
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the **[MIT license](https://opensource.org/licenses/MIT)**. See the LICENSE file for details.
