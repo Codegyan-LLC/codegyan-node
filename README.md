@@ -8,7 +8,7 @@
 
 This library provides convenient access to the Codegyan REST API from TypeScript or JavaScript.
 
-To learn how to use the OpenAI API, check out our and [Documentation](https://developer.codegyan.in/docs).
+To learn how to use the Codegyan API, check out our and [Documentation](https://developer.codegyan.in/docs).
 
 ## Installation
 
