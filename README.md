@@ -43,11 +43,11 @@ const client = new Codegyan(API_KEY, CLIENT_ID);
 async function main() {
     // Example usage of the CompilerApiClient to compile code
 
-    // Example JavaScript code to compile
+    // Example Python code to compile
     const lang = 'python';
     const code = 'print("Hello, World!")';
 
-    // Call the compile method of the CompilerApiClient with JavaScript as the language
+    // Call the compile method of the CompilerApiClient with Python as the language
     client.compilerApiClient.compile(lang, code)
         .then(result => {
             // Log the compilation result
